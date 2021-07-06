@@ -36,6 +36,8 @@ education:
     - course: B.A. in Mathematics
       institution: University of Chicago
       year: 2019
+    - course: Ph.D. in Computer Science (in progress)
+      institution: University of Chicago
 superuser: true
 highlight_name: false
 title: Austin Clyde
@@ -51,5 +53,3 @@ Medicinal chemists and biologists use virtual screening to scan large chemical d
 * Rethinking the way lead discovery is performed, so we don't have to think of these steps as all unique. If we reframe the problem with the specific goal in mind, it may be the case the workflow arises different (postmodernism can teach you a bit about this concept) 
 
 In many ways, I am skeptical of typical supervised deep learning. The workflow of collecting data, generalizing over it, and predicting off it has its uses--but in the regime discussed, it seems aimless. And yes, I am very inspired by 20th-century French philosophy.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
